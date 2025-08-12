@@ -1,0 +1,33 @@
+# dylan wilkins
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0f5806&center=true&vCenter=true&width=600&lines=technologia progressus humanitatem;technology advances humanity" alt="Typing SVG" />
+</div>
+
+---
+
+## about me <>
+
+I believe software is an extension of our mind, gifted to us to progress humanity. Every line of code we write has the potential to push the boundaries of what's possible and make the world a little better.
+
+Currently, I'm a software engineer studying CompSci at UCF, where I also conduct research at the  DRACO Lab. My work focuses on novel computing architechture & machine learning.
+
+
+My passions lie in **machine learning, computer vision, space systems software, and golang architecthure (in no particular order).**
+
+Right now, I am working on a **distributed, immutable blockchain, to distribute certfications to students whom attend workshops and technical events.** Find the repo here -> [CertChain](https://github.com/dylandhw/certification-blockchain)
+
+## tech stack <>
+**Languages:** *Python, Golang, C#, C, Java, Rust, Dart, Typescript, SQL, PostgreSQL, and MongoDB*
+<br>
+**Frameworks:** *React, Django, FastAPI, Flutter*
+<br>
+**Libraries:** *TensorFlow, Numpy, Pandas, Matplotlib, Keras, OpenCV, Selenium, Pytorch, TailwindCSS, and many more*
+<br>
+**Dev Tools & Engines:** *Git, Gitlab, Github, Docker, CICD, Unity*
+\
+\
+\
+*"those who can imagine anything, can create the impossible - alan turing"*
+
+---
