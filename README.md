@@ -9,7 +9,7 @@
 </div>
 
 
-## about me <>
+## [about me <>](https://google.com)
 
 I believe software is an extension of our mind, gifted to us to progress humanity. Every line of code we write has the potential to push the boundaries of what's possible and make the world a little better.
 
@@ -20,12 +20,15 @@ My passions lie in **machine learning, computer vision, space systems software, 
 
 Right now, I am working on a **distributed, immutable blockchain, to distribute certfications to students whom attend workshops and technical events.** Find the repo here -> [CertChain](https://github.com/dylandhw/certification-blockchain)
 
-## tech stack <>
+## [tech stack <>](https://google.com)
 **Languages:** *Python, Golang, C#, C, Java, Rust, Dart, Typescript, SQL, PostgreSQL, and MongoDB*
 <br>
-**Frameworks:** *React, Django, FastAPI, Flutter*
+<br>
+**Frameworks:** *React, Django, FastAPI, Flutter, ONNX, Ollama*
+<br>
 <br>
 **Libraries:** *TensorFlow, Numpy, Pandas, Matplotlib, Keras, OpenCV, Selenium, Pytorch, TailwindCSS, and many more*
+<br>
 <br>
 **Dev Tools & Engines:** *Git, Gitlab, Github, Docker, CICD, Unity*
 \
