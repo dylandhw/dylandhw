@@ -18,7 +18,7 @@ Currently, I'm a software engineer studying CompSci at UCF, where I also conduct
 
 My passions lie in **machine learning, computer vision, space systems software, and golang architecthure (in no particular order).**
 
-Right now, I am working on a **distributed, immutable blockchain, to distribute certfications to students whom attend workshops and technical events.** Find the repo here -> [CertChain](https://github.com/dylandhw/certification-blockchain)
+Right now, I am working on a **distributed, immutable blockchain, to award certfications to students whom attend workshops and technical events - allowing for validated skillsets.** Find the repo here -> [CertChain](https://github.com/dylandhw/certification-blockchain)
 
 ## [tech stack <>](https://google.com)
 **Languages:** *Python, Golang, C#, C, Java, Rust, Dart, Typescript, SQL, PostgreSQL, and MongoDB*
