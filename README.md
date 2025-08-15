@@ -34,6 +34,6 @@ Right now, I am working on a **distributed, immutable blockchain, to award certf
 \
 \
 \
-*"those who can imagine anything, can create the impossible - alan turing"*
+*"those who can imagine anything, can create the impossible" - alan turing*
 
 ---
