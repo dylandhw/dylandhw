@@ -1,4 +1,4 @@
-hii! I'm dylan, I like applied ml, distributed systems architecture, and reliable and secure computing. I belive software is an extension of our minds - used to shuffle humanity into a new era.
+hii! I'm dylan, I like novel security computing, applied ml, and distributed systems architecture. I belive software is an extension of our minds - used to shuffle humanity into a new era.
 \
 \
 \
