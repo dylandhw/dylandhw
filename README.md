@@ -1,4 +1,3 @@
-<img src="https://komarev.com/ghpvc/?username=dylandhw&&style=flat-square" align="center" />
 hi! I'm dylan, I like novel security computing, applied ml, and distributed systems architecture. I belive software is an extension of our minds - used to shuffle humanity into a new era.
 \
 \
