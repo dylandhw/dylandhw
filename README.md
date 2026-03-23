@@ -1,6 +1,2 @@
-hi! I'm dylan, I like novel security computing, applied ml, and distributed systems architecture. I belive software is an extension of our minds - used to shuffle humanity into a new era.
-\
-\
-*"those who can imagine anything, can create the impossible" - alan turing*
-
+Hi, I'm Dylan. I'm a software engineering researcher, I like film and architecture.
 
