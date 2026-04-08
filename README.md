@@ -1,2 +1,2 @@
-Hi, I'm Dylan. I'm a software engineering, I like film and architecture.
+Hi, I'm Dylan. I'm a software engineer, I like film and architecture.
 
