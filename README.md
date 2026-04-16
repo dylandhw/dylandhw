@@ -1,2 +1,4 @@
-Hi, I'm Dylan. I'm a software engineer, I like film and architecture.
+👋 Hi, I'm Dylan.
+
+I'm a software engineer; my paradigm is optimization and reliability. I am interested in film, architecture, and linguistics.
 
